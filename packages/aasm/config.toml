@@ -1,0 +1,8 @@
+name = "aasm"
+version = "2.1.10"
+revision = 1
+description = "x86-64 assembler"
+arch = "x86-64"
+maintainer = "ammar"
+license = "MIT"
+homepage = "https://github.com/LinuxCoder13/AmmAsm"
