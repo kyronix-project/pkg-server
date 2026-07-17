@@ -1,6 +1,6 @@
 name = "tcc"
 version = "0.9.28"
-revision = 1
+revision = 2
 description = "Tiny C Compiler"
 arch = "x86-64"
 maintainer = "Zennix"
