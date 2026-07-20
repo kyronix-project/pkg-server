@@ -1,0 +1,9 @@
+name = "musl-dev"
+version = "1.2.5"
+revision = 1
+description = "musl C library (static libc + CRT objects)"
+arch = "x86-64"
+maintainer = "Zennix"
+license = "MIT"
+homepage = "https://musl.libc.org"
+depends = []

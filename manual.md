@@ -34,6 +34,9 @@ Optional fields:
   maintainer  = "<string>"
   license     = "<string>"
   homepage    = "<url>"
+  depends     = ["pkg1", "pkg2"]  # Array of dependency package names
+                                   # Client resolves and installs them recursively
+                                   # before the target package, in dependency order
 ```
 ## Install.sh Script
 
@@ -90,6 +93,7 @@ arch = "x86-64"
 maintainer = "<maintainer_name>"
 license = "<license>"
 homepage = "<url>"
+depends = []
 EOF
 ```
 
