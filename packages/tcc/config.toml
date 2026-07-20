@@ -1,9 +1,0 @@
-name = "tcc"
-version = "0.9.28"
-revision = 3
-description = "Tiny C Compiler"
-arch = "x86-64"
-maintainer = "Zennix"
-license = "LGPL"
-homepage = "https://github.com/tinycc/tinycc"
-depends = ["musl-dev"]
